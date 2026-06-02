@@ -1,0 +1,15 @@
+* text=auto eol=lf
+app/src/main/assets/espeak-ng-data/** binary
+*.onnx           binary
+*.onnx.json      text eol=lf
+tokens.txt       text eol=lf
+*.jar            binary
+*.so             binary
+*.jks            binary
+*.keystore       binary
+*.png            binary
+*.jpg            binary
+*.webp           binary
+*.ttf            binary
+*.otf            binary
+*.bat            text eol=crlf

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Text2MP3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorOnPrimary">#FF000000</item>
+        <item name="android:statusBarColor">@color/bg</item>
+    </style>
+</resources>

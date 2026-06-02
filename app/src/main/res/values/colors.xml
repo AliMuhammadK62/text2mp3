@@ -1,0 +1,10 @@
+<resources>
+    <color name="bg">#121216</color>
+    <color name="panel">#1A1A20</color>
+    <color name="accent">#00C88C</color>
+    <color name="accent2">#508CFF</color>
+    <color name="fg">#DCDCE6</color>
+    <color name="fg_dim">#78788C</color>
+    <color name="err">#FF5050</color>
+    <color name="warn">#FFBE32</color>
+</resources>
